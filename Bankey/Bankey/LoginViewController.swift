@@ -132,3 +132,7 @@ extension LoginViewController {
     }
     
 }
+
+#Preview{
+    LoginViewController()
+}
