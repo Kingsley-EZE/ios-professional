@@ -15,6 +15,7 @@
 		05860F7F2CAC703E003C89EC /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 05860F7E2CAC703E003C89EC /* Base */; };
 		05860F892CAC72C3003C89EC /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05860F882CAC72C3003C89EC /* LoginView.swift */; };
 		05860F8C2CAEC30E003C89EC /* OnboardingContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05860F8B2CAEC30E003C89EC /* OnboardingContainerViewController.swift */; };
+		05860F8E2CAECC8A003C89EC /* OnboardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05860F8D2CAECC8A003C89EC /* OnboardingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		05860F802CAC703E003C89EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05860F882CAC72C3003C89EC /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		05860F8B2CAEC30E003C89EC /* OnboardingContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingContainerViewController.swift; sourceTree = "<group>"; };
+		05860F8D2CAECC8A003C89EC /* OnboardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				05860F8B2CAEC30E003C89EC /* OnboardingContainerViewController.swift */,
+				05860F8D2CAECC8A003C89EC /* OnboardingViewController.swift */,
 			);
 			name = Onboarding;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				05860F772CAC703C003C89EC /* LoginViewController.swift in Sources */,
+				05860F8E2CAECC8A003C89EC /* OnboardingViewController.swift in Sources */,
 				05860F732CAC703C003C89EC /* AppDelegate.swift in Sources */,
 				05860F892CAC72C3003C89EC /* LoginView.swift in Sources */,
 				05860F8C2CAEC30E003C89EC /* OnboardingContainerViewController.swift in Sources */,
